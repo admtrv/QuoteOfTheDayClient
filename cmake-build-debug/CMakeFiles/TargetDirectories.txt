@@ -1,0 +1,3 @@
+C:/Users/DAnto/CLionProjects/qotd/cmake-build-debug/CMakeFiles/qotd.dir
+C:/Users/DAnto/CLionProjects/qotd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DAnto/CLionProjects/qotd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
